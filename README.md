@@ -1,4 +1,4 @@
-# Clima ☁
+# Climate ☁
 
 ## I learnt this following thing from this project
 
@@ -16,4 +16,4 @@
 
 ## Output
 
-<img src="images/Output.gif" height="500" width="250"/>
+<img src="images/output.gif" height="500" width="250"/>
