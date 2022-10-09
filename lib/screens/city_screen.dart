@@ -47,7 +47,7 @@ class _CityScreenState extends State<CityScreen> {
                   Navigator.pop(context, cityName);
                 },
                 child: Text(
-                  'Get Weather',
+                  'Submit',
                   style: kButtonTextStyle,
                 ),
               ),
