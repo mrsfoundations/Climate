@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData.dark(),
-      debugShowCheckedModeBanner: true,
+      debugShowCheckedModeBanner: false,
       home: LoadingScreen(),
     );
   }
