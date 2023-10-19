@@ -29,7 +29,7 @@ class _CityScreenState extends State<CityScreen> {
                     Navigator.pop(context);
                   },
                   child: Icon(Icons.arrow_back_ios,
-                      size: 50.0, color: Colors.white),
+                      size: 30.0, color: Colors.white),
                 ),
               ),
               Container(
